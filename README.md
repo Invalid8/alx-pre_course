@@ -1,1 +1,3 @@
-in the 0x01-git readme
+#On a journey with ALX
+
+it is a nice journey thou.
